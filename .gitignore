@@ -1,8 +1,8 @@
 ## Ignorar los siguientes archivos
 # DATA
-!data/observacion_puntos/* 
 data/*
-
+!data/README.txt
+!data/observacion_puntos/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
