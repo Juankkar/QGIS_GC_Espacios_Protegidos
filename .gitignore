@@ -3,7 +3,7 @@
 data/*
 !data/README.txt
 !data/observacion_puntos/
-!data/gran_canaria/*.qml
+!data/gran_canaria/*qml 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
